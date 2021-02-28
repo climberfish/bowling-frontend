@@ -1,0 +1,3 @@
+[submodule "bowling-score"]
+	path = bowling-score
+	url = git@github.com:climberfish/bowling-kata.git
